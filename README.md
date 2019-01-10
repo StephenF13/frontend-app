@@ -1,4 +1,5 @@
-frontend-app
+Frontend-app en lien avec blog-api-fosrest-2
 ============
 
-Frontend application in charge of displaying an graphical interface to users.
+Application frontend apportant une interface graphique communiquant avec blog-api-fosrest-2 
+(authentification par GitHub)
